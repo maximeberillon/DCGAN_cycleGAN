@@ -3,7 +3,7 @@
 
 Rémy DESHAYES, Maxime BERILLON
 
-When studying an unsupervised learning problem, data at hand supposedly follow a distribution $\mathbb{P}_r$ that we want to discover and learn. 
+When studying an unsupervised learning problem, data at hand supposedly follow a distribution that we want to discover and learn. 
 
 Section 1 introduces two approaches to tackle the problem of probability distribution learning and make a brief introduction to a model - the GAN - that leverages one of these approaches. Then, section 2 builds on the remarks made in the previous part and introduces the Wasserstein GAN. Section 3 and section 4 propose an in-depth review of two GANs and their implementations, namely the DCGAN and the CycleGAN. 
 
